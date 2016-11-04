@@ -1,0 +1,9 @@
+﻿  소스.cpp
+c:\users\user\documents\visual studio 2015\projects\file_transfer_server\소스.cpp(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\file_transfer_server\소스.cpp(66): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: '_snprintf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\file_transfer_server\소스.cpp(101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  file_transfer_server.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\file_transfer_server\Debug\file_transfer_server.exe
+  file_transfer_server.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\file_transfer_server\Debug\file_transfer_server.pdb (Full PDB)
